@@ -1,5 +1,3 @@
-from distutils.cmd import Command
-from re import search
 import speech_recognition as sr
 import webbrowser
 import time
